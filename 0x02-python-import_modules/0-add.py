@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-# 0_add.py
-# Amos Wachira
+# file: 0_add.py
+# Amos Wachira as Author
 
 if __name__ == "__main__":
-    """Print the sum of 1 and 2."""
+    """Import a simple function and print sum."""
     from add_0 import add
 
     a = 1
