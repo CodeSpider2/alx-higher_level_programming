@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-#Amos Wachira
-#0-rectangle.py
+# 0-rectangle.py
+# Amos Wachira
+"""Defines a Rectangle class."""
 
-"""Define an empty class """
 
 class Rectangle:
-    """A class to represent a rectangle """
+    """Represent a rectangle."""
     pass
