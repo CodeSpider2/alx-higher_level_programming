@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # 101-nqueens.py
 # Amos Wachira
+
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
