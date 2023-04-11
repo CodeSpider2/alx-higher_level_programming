@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-#0-lookup.py
-#Amos Wachira
-"""Object lookup function definition"""
+# 0-lookup.py
+# Amos Wachira
+"""Defines an object attribute lookup function."""
 
 
 def lookup(obj):
-    """Returns a list of available attributes in an object"""
+    """Return a list of an object's available attributes."""
     return (dir(obj))
