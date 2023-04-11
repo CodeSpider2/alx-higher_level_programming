@@ -8,9 +8,9 @@ This module provides an empty class Base Geometry.
 
 class BaseGeometry:
     """Represents base geometry."""
-
-    def area:
-        """Raises:
+    def area(self):
+        """
+        raises:
             exception:Area is not defined
             """
         raise Exception("area() is not implemented")
