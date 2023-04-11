@@ -1,7 +1,10 @@
 #!/usr/bin/python3
-#Amos Wachira
-"""Define an empty class Base Geometry"""
+
+"""
+This module provides an empty class base geometry.
+"""
+
 
 class BaseGeometry:
-    """Empty class to represent Base Geometry"""
+    """Represents base geometry."""
     pass
