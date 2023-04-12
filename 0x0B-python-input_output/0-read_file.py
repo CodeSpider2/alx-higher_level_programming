@@ -8,6 +8,5 @@ def read_file(filename=""):
         filename:The name of the file to be read
     Prints out the lines of the file
     """
-    with open(filename, mode="r", encoding="utf-8") as file:
-        file.read()
-        print(file, end="")
+    with open(filename, encoding="utf-8") as file:
+        print(file.read(), end="")
