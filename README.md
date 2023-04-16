@@ -10,7 +10,7 @@ track at ALX.
 * [0x00. Python - Hello, World](./0x00-python-hello_world)
 *
 ## Author :black_nib:
-* **Author : Amos Wachira** <[4ouR04](https://github.com/AMO15310)>
+* **Author : Amos Wachira** <[AMO15310](https://github.com/AMO15310)>
 
 * Click this image for more information.
 
